@@ -51,3 +51,7 @@ SRC += lib/keyball/keyball.c
 SPACE_CADET_ENABLE = no
 GRAVE_ESC_ENABLE = no
 MAGIC_ENABLE = no
+
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes # デバッグや検証をスムーズにする場合
